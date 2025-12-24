@@ -155,21 +155,6 @@ Setelah menjalankan eksperimen, Anda akan mendapatkan:
 - Confusion matrix
 - Data yang siap untuk training model lebih lanjut
 
-## Author
-
-**Yudhistira Paksi**
-
-## Kriteria yang Dipenuhi
-
-**Advance (4 pts)**
-- Tahap Skilled terpenuhi:
-  - Notebook eksperimen lengkap dengan EDA dan preprocessing
-  - File `automate_Yudhistira_Paksi.py` yang berisikan fungsi untuk melakukan preprocessing secara otomatis
-  - Konversi dari proses eksperimen dengan tahapan yang sama tetapi struktur berbeda
-  - **Mengembalikan data yang siap dilatih** (training-ready data)
-- GitHub Actions workflow untuk preprocessing otomatis
-- Repository terstruktur sesuai rekomendasi
-- Workflow mengembalikan dataset yang sudah diproses
 
 ## Lisensi
 

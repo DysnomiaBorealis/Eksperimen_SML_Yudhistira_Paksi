@@ -1,12 +1,3 @@
-"""
-Automation Script for Indonesian Spam Detection Preprocessing
-Author: Yudhistira Paksi
-Description: This script automates the preprocessing of indo_spam.csv dataset
-             and returns training-ready data for machine learning models.
-             
-This is a conversion from the experiment notebook with the same steps but different structure.
-"""
-
 import pandas as pd
 import numpy as np
 import re
